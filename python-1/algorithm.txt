@@ -1,0 +1,7 @@
+Adım 1:basla
+Adım 2:x ve y degiskenleri olustur
+Adım 3:(x)=birinci sayiyi al
+Adım 4:(y)=ikinci sayiyi al
+Adım 5:iki sayi topla (x+y) ve return et
+Adım 6:ekrana yaz
+Adım 7:son

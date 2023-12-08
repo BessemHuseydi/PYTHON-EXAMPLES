@@ -1,0 +1,10 @@
+Adım 1: Başla
+Adım 2 : Sayı giriniz; a
+Adım 3 : a < 0 ise 2. Adıma git
+Adım 4 : faktöriyel = 1
+Adım 5 : a == 0 ise 9. Adıma git
+Adım 6 : faktöriyel = faktöriyel *a
+Adım 7 : a = a -1
+Adım 8 : a > 0 ise 6. Adıma git
+Adım 9 : Yaz faktöriyel
+Adım 10: Son
