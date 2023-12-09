@@ -1,0 +1,8 @@
+Adım 1: Başla
+Adım 2 : Birinci sayı giriniz; x
+Adım 3 : ikinci sayı giriniz; y
+Adım 4 : Birinci sayi tekse adım 6 git
+Adım 5 : Birinci sayi ciftse adım birinci sayi+1 yap
+Adım 6 : sonra binci sayi +2 yaz ikinci sayida küçük olduğun süre
+Adım 7 : sonucu ekrana yaz
+Adım 8: Son
