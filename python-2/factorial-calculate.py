@@ -10,5 +10,5 @@ def factorial_calculate(x):
 number=int(input("Faktöriyeli hesaplanacak sayiyi giriniz: "))
 
 factorial=factorial_calculate(number)
-
+print(" ")
 print(f"{number}! = {factorial}")
