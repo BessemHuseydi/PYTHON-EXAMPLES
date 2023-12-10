@@ -1,0 +1,94 @@
+Adım 1: Başla
+
+Adım 2 : Birinci sayı giriniz; x
+
+Adım 3 : Alınan sayı 2'den küçükse, "Asal değil" sonucunu ver ve işlemi sonlandır.
+        Sayı 2 ise, "Asal" sonucunu ver ve işlemi sonlandır.
+
+Adım 4 : 2'den başlayarak sayının kareköküne kadar olan sayılar için döngü oluştur.
+        Her adımda, sayıyı o anki döngü değeriyle bölelim.
+        Eğer bölen bulunursa, "Asal değil" sonucunu ver ve işlemi sonlandır
+
+Adım 5: Hiçbir bölen bulunamazsa, "Asal" sonucunu ver.
+
+Adım 8: İşlemi sonlandır.
+
+/////////////////////////////////akis diyegrami/////////////////////////////////////
+   +------------------+
+   | Başlangıç        |
+   |                  |
+   +--------+---------+
+            |
+            v
+   +--------+---------+
+   | Kullanıcıdan     |
+   | bir sayı al      |
+   +--------+---------+
+            |
+            v
+   +--------+---------+
+   | Sayı Kontrolü    |
+   |                  |
+   +--------+---------+
+            |
+            | (sayı < 2)
+            v
+   +------------------+
+   | "Asal değil"     |
+   | sonucunu ver     |
+   +--------+---------+
+            |
+            v
+   +------------------+
+   | Bitiş            |
+   | İşlemi sonlandır |
+   +------------------+
+            |
+            | (sayı = 2)
+            v
+   +------------------+
+   | "Asal" sonucunu  |
+   | ver              |
+   +------------------+
+            |
+            v
+   +------------------+
+   | Bitiş            |
+   | İşlemi sonlandır |
+   +------------------+
+            |
+            | (sayı > 2)
+            v
+   +--------+---------+
+   | Bölme Kontrolü   |
+   |                  |
+   +--------+---------+
+            |
+            | (bölen bulundu)
+            v
+   +------------------+
+   | "Asal değil"     |
+   | sonucunu ver     |
+   +------------------+
+            |
+            v
+   +------------------+
+   | Bitiş            |
+   | İşlemi sonlandır |
+   +------------------+
+            |
+            | (hiç bölen bulunamadı)
+            v
+   +------------------+
+   | "Asal" sonucunu  |
+   | ver              |
+   +------------------+
+            |
+            v
+   +------------------+
+   | Bitiş            |
+   | İşlemi sonlandır |
+   +------------------+
+
+
+
