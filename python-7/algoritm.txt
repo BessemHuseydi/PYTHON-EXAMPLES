@@ -1,0 +1,9 @@
+Fibonacci Sayıları Algoritması Akış Diyagramı:
+
+1-Başlangıç noktası.
+2-n değeri girilir.
+3-İki elemanlı bir liste (fib_sequence) oluşturulur ve [0, 1] ile başlatılır.
+4-Liste boyutu n olana kadar şu adımlar tekrarlanır:
+ Son iki elemanın toplamı, listeye eklenir.
+5-Fibonacci sayıları içeren liste (fib_sequence) çıktı olarak verilir.
+6-Algoritma tamamlanır.
