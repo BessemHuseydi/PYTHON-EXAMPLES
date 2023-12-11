@@ -1,0 +1,7 @@
+1-Başlangıç noktası.
+2-Bir sayı listesi (numbers) girilir.
+3-Liste içindeki ilk eleman, geçici olarak en büyük sayı olarak belirlenir.
+4-Liste üzerinde dönülerek her bir eleman kontrol edilir:
+5-Eleman, geçici en büyük sayıdan büyükse, geçici en büyük sayı güncellenir.
+6-En büyük sayı çıktı olarak verilir.
+7-Algoritma tamamlanır.
