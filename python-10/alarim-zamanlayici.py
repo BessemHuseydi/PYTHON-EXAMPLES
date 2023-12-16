@@ -7,7 +7,7 @@ def basit_zamanlayici(dakika, alarm_dosyasi):
         mins, secs = divmod(sure, 60)
         timer = '{:02d}:{:02d}'.format(mins, secs)
         print(timer, end="\r")
-        time.sleep(0.1)
+        time.sleep(1)
         sure -= 1
 
     print("Zaman doldu! Alarm çalıyor...")
