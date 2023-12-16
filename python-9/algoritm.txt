@@ -1,0 +1,9 @@
+
+1-Başlangıç: Hesap makinesi programının başladığını gösterir.
+2-İşlem Seçimi: Kullanıcıdan işlem türünü alır (+, -, *, /, %, N/n).
+3-Çıkış Kontrolü: Kullanıcı 'N' veya 'n' girdi mi diye kontrol eder. Eğer evetse, programı sonlandırır.
+4-Sayı Girişleri: Kullanıcıdan iki sayı alır.
+5-Hatalı Giriş Kontrolü: Girilen sayıların geçerli olup olmadığını kontrol eder. Geçersizse, hata mesajı verir ve başa döner.
+İşlem Yapma: Kullanıcının seçtiği işleme göre hesaplama yapar.
+6-Sonuç Gösterimi: Hesaplamanın sonucunu gösterir.
+7-Döngüye Devam: Başa dönerek yeni bir işlem yapılmasına olanak tanır.
