@@ -1,1 +1,1 @@
-programi calistirmadan once bir kutuphane yuklenmsi gerekir :pip install pygame
+Programi calistirmadan once bir kutuphane yuklenmsi gerekir :pip install pygame
