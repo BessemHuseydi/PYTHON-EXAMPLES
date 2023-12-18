@@ -3,7 +3,7 @@ while True :
     islem=input("yapnmak istediginiz islemi | + , - , * , / , % |  islemi giriniz  cikis icin|N,n| basiniz :\n")
     
     if (islem == 'n' or islem == 'N'):
-        print("Hesap makinsinde cikis yapiliyor --->   :)\n ")
+        print("Hesap makinsinde cikis yapiliyor --->   \n ")
         break
     
     try:
