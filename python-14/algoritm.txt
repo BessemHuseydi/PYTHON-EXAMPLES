@@ -1,0 +1,10 @@
+1-Başlangıç: Programın çalışmaya başlaması.
+2-Dizi ve Dizi Uzunluğunu Tanımlama: liste adlı bir dizi ve bu dizinin uzunluğunu (dizi_uzunlugu) tanımlama.
+3-Özyinelemeli Fonksiyonun Çağrılması: ozyineleme fonksiyonunu liste ve dizi_uzunlugu ile çağırma.
+    3.1. Base Case Kontrolü: uzunluk < 0 ise, 0 dön ve özyinelemeyi sonlandır.
+    3.2. Hesaplama: Eğer uzunluk >= 0 ise, dizinin o anki elemanı (array[uzunluk]) üzerinde işlem yap:
+    3.2.1. Çift Sayı Kontrolü: Eğer eleman çift ise, elemanın 3 katının 2 fazlasını hesapla.
+    3.2.2. Tek Sayı Kontrolü: Eğer eleman tek ise, elemanın 4 katının 5 fazlasını hesapla.
+    3.3. Özyinelemeli Çağrı: Hesaplanan değeri, bir sonraki özyinelemeli fonksiyon çağrısı (ozyineleme(array, uzunluk - 1)) ile topla.
+4-Sonuç Yazdırma: Hesaplanan toplam sonucu ekrana yazdır.
+5-Son: Programın sonlanması.
