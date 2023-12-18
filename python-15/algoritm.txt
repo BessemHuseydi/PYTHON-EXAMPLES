@@ -1,0 +1,12 @@
+1-Başlangıç: Programın çalışmaya başlaması.
+2-Kullanıcıdan Girdi Al: Kullanıcıdan 10'dan küçük, pozitif bir disk sayısı istenir.
+3-Girdi Kontrolü: Girdi, 0'dan büyük ve 10'dan küçük olup olmadığı kontrol edilir.
+    3.1. Hatalı Girdi Durumu: Eğer girdi hatalıysa, hata mesajı verilir ve 2. adıma dönülür.
+    3.2. Geçerli Girdi Durumu: Eğer girdi geçerliyse, 4. adıma geçilir.
+4-Hanoi Kuleleri Fonksiyonunun Çalıştırılması: hanoi_kuleleri fonksiyonu çağrılır ve disklerin taşınma süreci başlar.
+    4.1. Fonksiyonun Kontrolü: n == 1 ise, en küçük diski kaynak çubuktan hedef çubuğa taşı ve fonksiyonu sonlandır. Aksi takdirde 4.2'ye geç.
+    4.2. Özyinelemeli Çağrılar: n > 1 ise, özyinelemeli olarak hanoi_kuleleri fonksiyonunu üç aşamada çağır:
+    4.2.1. İlk olarak, n-1 diskini kaynak çubuktan yaradimci çubuğa taşı.
+    4.2.2. Sonra, n'inci diski kaynak çubuktan hedef çubuğa taşı.
+    4.2.3. Son olarak, n-1 diskini yaradimci çubuktan hedef çubuğa taşı.
+5-Son: Tüm diskler taşındıktan sonra, programın sonlanması.
