@@ -1,0 +1,16 @@
+1-Sınıf İnşaası:
+
+    BankaHesabi sınıfı oluşturulur.
+    Başlangıç bakiyesi ve hesap sahibi belirlenir.
+
+2-Para Yatırma İşlemi:
+
+    Pozitif miktar yatırılırsa bakiye artırılır.
+
+3-Para Çekme İşlemi:
+
+    Yeterli bakiye varsa belirli miktar çekilir.
+    
+4-Hesap Bilgilerinin Kullanımı:
+
+    Para yatırma ve çekme işlemleri yapılır, bakiye gösterilir.
