@@ -1,0 +1,16 @@
+1-Modüller İçe Aktarılır:
+
+    tkinter (grafik arayüz için) ve time (zamanı elde etmek için).
+
+2-Zamanı Güncelleme Fonksiyonu (update_time):
+
+    Mevcut zamanı al ve saat etiketine yerleştir.
+    Her saniye kendini tekrar çağır.
+
+3-Ana Pencere (root) ve Saat Etiketi (saat_etiketi) Oluşturma:
+
+    Ana Tkinter penceresini ve zamanı gösterecek etiketi oluştur.
+
+4-Uygulamayı Çalıştır:
+
+    Zamanı güncellemeyi başlat ve grafik arayüz döngüsünü çalıştır.
